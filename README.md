@@ -1,2 +1,2 @@
 # python-test-script
-This is a python script to test/configure Cisco IOS devices.
+This is a python script to check IOS device status using Netmiko.
